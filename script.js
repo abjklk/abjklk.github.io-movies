@@ -663,6 +663,45 @@ $("#JohnWick2 figcaption").text("John Wick : Chapter 2");
 $("#PacificRim2 img").attr("src","https://upload.wikimedia.org/wikipedia/en/2/2e/Pacificrim2-poster.jpg");
 $("#PacificRim2 figcaption").text("Pacific Rim : Uprising");
 
+$("#StarWars4 img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Star_Wars_%281997_re-release_poster%29.jpg/170px-Star_Wars_%281997_re-release_poster%29.jpg");
+$("#StarWars4 figcaption").text("Star Wars Episode 4 : A New Hope");
+
+$("#StarWars5 img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/SW_-_Empire_Strikes_Back.jpg/220px-SW_-_Empire_Strikes_Back.jpg");
+$("#StarWars5 figcaption").text("Star Wars Episode 5 : Empire Strikes Back");
+
+$("#StarWars6 img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/ReturnOfTheJediPoster1983.jpg/220px-ReturnOfTheJediPoster1983.jpg");
+$("#StarWars6 figcaption").text("Star Wars Episode 6 : Return of the Jedi");
+
+$("#StarWars1 img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Star_Wars_Phantom_Menace_poster.jpg/220px-Star_Wars_Phantom_Menace_poster.jpg");
+$("#StarWars1 figcaption").text("Star Wars Episode 1 : The Phantom Menace");
+
+$("#StarWars2 img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Star_Wars_-_Episode_II_Attack_of_the_Clones_%28movie_poster%29.jpg/220px-Star_Wars_-_Episode_II_Attack_of_the_Clones_%28movie_poster%29.jpg");
+$("#StarWars2 figcaption").text("Star Wars Episode 2 : Attack of the Clones");
+
+$("#StarWars3 img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/9/93/Star_Wars_Episode_III_Revenge_of_the_Sith_poster.jpg/220px-Star_Wars_Episode_III_Revenge_of_the_Sith_poster.jpg");
+$("#StarWars3 figcaption").text("Star Wars Episode 3 : Revenge of the Sith");
+
+$("#StarWars7 img").attr("src","https://upload.wikimedia.org/wikipedia/en/a/a2/Star_Wars_The_Force_Awakens_Theatrical_Poster.jpg");
+$("#StarWars7 figcaption").text("Star Wars Episode 7 : The Force Awakens");
+
+$("#StarWars8 img").attr("src","https://upload.wikimedia.org/wikipedia/en/7/7f/Star_Wars_The_Last_Jedi.jpg");
+$("#StarWars8 figcaption").text("Star Wars Episode 8 : The Last Jedi");
+
+$("#StarWars_1 img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/d/d4/Rogue_One%2C_A_Star_Wars_Story_poster.png/220px-Rogue_One%2C_A_Star_Wars_Story_poster.png");
+$("#StarWars_1 figcaption").text("Rogue One : A Star Wars Story");
+
+$("#MrNobody img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/3/32/Mr._Nobody_%28film_poster%29.jpg/220px-Mr._Nobody_%28film_poster%29.jpg");
+$("#MrNobody figcaption").text("Mr. Nobody");
+
+$("#HGTTG img").attr("src","https://upload.wikimedia.org/wikipedia/en/7/7a/Hitchhikers_guide_to_the_galaxy.jpg");
+$("#HGTTG figcaption").text("Hitchhiker's Guide to the Galaxy");
+
+$("#TombRaider img").attr("src","https://upload.wikimedia.org/wikipedia/en/b/bd/Tomb_Raider_%282018_film%29.png");
+$("#TombRaider figcaption").text("Tomb Raider");
+
+$("#Ant-Man2 img").attr("src","https://upload.wikimedia.org/wikipedia/en/2/2c/Ant-Man_and_the_Wasp_poster.jpg");
+$("#Ant-Man2 figcaption").text("Ant Man and the Wasp");
+
 //-x-x-x--x-x-x-x-x-x-Animated-x-x-x-x-x-x--xx--x-x-x-x-x-x
 $("#DespicableMe img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Despicable_Me_Poster.jpg/220px-Despicable_Me_Poster.jpg");
 $("#DespicableMe figcaption").text("Despicable Me");
