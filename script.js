@@ -327,7 +327,7 @@ $("#Goal figcaption").text("Goal");
 $("#MeetDave img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Meet_dave.jpg/220px-Meet_dave.jpg");
 $("#MeetDave figcaption").text("Meet Dave");
 
-$("#StarTrek img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/5/50/StarTrekIntoDarkness_FinalUSPoster.jpg/220px-StarTrekIntoDarkness_FinalUSPoster.jpg");
+$("#StarTrek img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Startrekposter.jpg/220px-Startrekposter.jpg");
 $("#StarTrek figcaption").text("Star Trek");
 
 $("#WalkingWithTheDinosaurs img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Walking_with_Dinosaurs_film_poster.jpg/220px-Walking_with_Dinosaurs_film_poster.jpg");
@@ -701,6 +701,45 @@ $("#TombRaider figcaption").text("Tomb Raider");
 
 $("#Ant-Man2 img").attr("src","https://upload.wikimedia.org/wikipedia/en/2/2c/Ant-Man_and_the_Wasp_poster.jpg");
 $("#Ant-Man2 figcaption").text("Ant Man and the Wasp");
+
+$("#Solo img").attr("src","https://upload.wikimedia.org/wikipedia/en/5/54/Solo_A_Star_Wars_Story_poster.jpg");
+$("#Solo figcaption").text("Solo : A Star Wars Story");
+
+$("#LostCityofZ img").attr("src","http://upload.wikimedia.org/wikipedia/en/6/61/The_Lost_City_of_Z_%28film%29.png");
+$("#LostCityofZ figcaption").text("The Lost City of Z");
+
+$("#UsualSuspects img").attr("src","https://resizing.flixster.com/m4FiVr6scKk3L6OoK15PIaVoGZg=/206x305/v1.bTsxMTE4OTY2NTtqOzE3OTA0OzEyMDA7ODAwOzEyMDA");
+$("#UsualSuspects figcaption").text("Usual Suspects");
+
+$("#Deadpool2 img").attr("src","https://upload.wikimedia.org/wikipedia/en/c/cf/Deadpool_2_poster.jpg");
+$("#Deadpool2 figcaption").text("Deadpool 2");
+
+$("#AWrinkleInTime img").attr("src","https://upload.wikimedia.org/wikipedia/en/a/ab/AWrinkleInTimeTeaser.jpg");
+$("#AWrinkleInTime figcaption").text("A Wrinkle in Time");
+
+$("#Cloverfield2 img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/10_Cloverfield_Lane.png/220px-10_Cloverfield_Lane.png");
+$("#Cloverfield2 figcaption").text("10 Cloverfield Lane");
+
+$("#Terminator img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Terminator-2-judgement-day.jpg/250px-Terminator-2-judgement-day.jpg");
+$("#Terminator figcaption").text("Terminator");
+
+$("#JurassicWorld2 img").attr("src","https://upload.wikimedia.org/wikipedia/en/c/c6/Jurassic_World_Fallen_Kingdom.png");
+$("#JurassicWorld2 figcaption").text("Jurassic World : Fallen Kingdom");
+
+$("#AQuietPlace img").attr("src","https://upload.wikimedia.org/wikipedia/en/a/a0/A_Quiet_Place_film_poster.png");
+$("#AQuietPlace figcaption").text("A Quiet Place");
+
+$("#Extinction img").attr("src","https://upload.wikimedia.org/wikipedia/en/0/0d/Extinction.png");
+$("#Extinction figcaption").text("Extinction");
+
+$("#WolfofWallStreet img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/The_Wolf_of_Wall_Street_%282013%29.png/220px-The_Wolf_of_Wall_Street_%282013%29.png");
+$("#WolfofWallStreet figcaption").text("Wolf of Wall Street");
+
+$("#StarTrek2 img").attr("src","https://upload.wikimedia.org/wikipedia/en/5/50/StarTrekIntoDarkness_FinalUSPoster.jpg");
+$("#StarTrek2 figcaption").text("Star Trek : Into Darkness");
+
+$("#StarTrek3 img").attr("src","https://upload.wikimedia.org/wikipedia/en/b/ba/Star_Trek_Beyond_poster.jpg");
+$("#StarTrek3 figcaption").text("Star Trek : Beyond");
 
 //-x-x-x--x-x-x-x-x-x-Animated-x-x-x-x-x-x--xx--x-x-x-x-x-x
 $("#DespicableMe img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Despicable_Me_Poster.jpg/220px-Despicable_Me_Poster.jpg");
