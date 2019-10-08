@@ -194,7 +194,7 @@ $("#SpyKids3 figcaption").text("Spy Kids 3");
 
 $("#SpyKids4 img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Spy_kids_four_all_the_time_in_the_world_poster.jpg/220px-Spy_kids_four_all_the_time_in_the_world_poster.jpg");
 $("#SpyKids4 figcaption").text("Spy Kids 4");
- 
+
 $("#LandOfTheLost img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/9/99/Land_of_the_Lost_poster.jpg/215px-Land_of_the_Lost_poster.jpg");
 $("#LandOfTheLost figcaption").text("Land Of The Lost");
 
@@ -517,7 +517,7 @@ $("#TheDarkTower img").attr("src","https://upload.wikimedia.org/wikipedia/en/thu
 $("#TheDarkTower figcaption").text("The Dark Tower");
 
 $("#Kingsman2 img").attr("src","https://upload.wikimedia.org/wikipedia/en/f/fb/Kingsman_The_Golden_Circle.png");
-$("#Kingsman2 figcaption").text("Kingsman 2");
+$("#Kingsman2 figcaption").text("Kingsman : The Golden Circle");
 
 $("#SherlockHolmes img").attr("src","https://www.warnerbros.com/sites/default/files/styles/key_art_270x400/public/sherlock_holmes_keyart.jpg?itok=BV504RQZ");
 $("#SherlockHolmes figcaption").text("Sherlock Holmes");
@@ -526,13 +526,13 @@ $("#SherlockHolmes2 img").attr("src","https://i.ytimg.com/vi/0hC1b9z8ZLk/moviepo
 $("#SherlockHolmes2 figcaption").text("Sherlock Holmes : A Game of Shadows");
 
 $("#Thor3 img").attr("src","https://upload.wikimedia.org/wikipedia/en/7/7d/Thor_Ragnarok_poster.jpg");
-$("#Thor3 figcaption").text("Thor 3");
+$("#Thor3 figcaption").text("Thor Ragnarok");
 
 $("#JusticeLeague img").attr("src","https://upload.wikimedia.org/wikipedia/en/3/31/Justice_League_film_poster.jpg");
 $("#JusticeLeague figcaption").text("Justice League");
 
 $("#MadMax img").attr("src","https://upload.wikimedia.org/wikipedia/en/6/6e/Mad_Max_Fury_Road.jpg");
-$("#MadMax figcaption").text("Mad Max");
+$("#MadMax figcaption").text("Mad Max : Fury Road");
 
 $("#Valerian img").attr("src","https://upload.wikimedia.org/wikipedia/en/0/07/Valerian_and_the_City_of_a_Thousand_Planets.jpg");
 $("#Valerian figcaption").text("Valerian");
@@ -583,7 +583,7 @@ $("#ShutterIsland img").attr("src","https://upload.wikimedia.org/wikipedia/en/7/
 $("#ShutterIsland figcaption").text("Shutter Island");
 
 $("#Jumanji2 img").attr("src","https://upload.wikimedia.org/wikipedia/en/d/dc/Jumanji_Welcome_to_the_Jungle.png");
-$("#Jumanji2 figcaption").text("Jumanji 2");
+$("#Jumanji2 figcaption").text("Jumanji : Welcome to The Jungle");
 
 $("#Downsizing img").attr("src","https://upload.wikimedia.org/wikipedia/en/a/a8/Downsizing.png");
 $("#Downsizing figcaption").text("Downsizing");
@@ -619,7 +619,7 @@ $("#ReadyPlayerOne img").attr("src","https://upload.wikimedia.org/wikipedia/en/7
 $("#ReadyPlayerOne figcaption").text("Ready Player One");
 
 $("#MazeRunner3 img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/MazeRunnerDeathCureFinalPoster.jpeg/220px-MazeRunnerDeathCureFinalPoster.jpeg");
-$("#MazeRunner3 figcaption").text("Maze Runner 3");
+$("#MazeRunner3 figcaption").text("Maze Runner : The Death Cure");
 
 $("#Argo img").attr("src","https://upload.wikimedia.org/wikipedia/en/e/e1/Argo2012Poster.jpg");
 $("#Argo figcaption").text("Argo");
@@ -630,7 +630,7 @@ $("#InglouriousBasterds figcaption").text("Inglourious Basterds");
 $("#TheHurtLocker img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/HLposterUSA2.jpg/220px-HLposterUSA2.jpg");
 $("#TheHurtLocker figcaption").text("The Hurt Locker");
 
-$("#BladeRunner img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Blade_Runner_poster.jpg/220px-Blade_Runner_poster.jpg");
+$("#BladeRunner img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/9/9f/Blade_Runner_%281982_poster%29.png/220px-Blade_Runner_%281982_poster%29.png");
 $("#BladeRunner figcaption").text("Blade Runner");
 
 $("#BladeRunner2050 img").attr("src","https://upload.wikimedia.org/wikipedia/en/9/9b/Blade_Runner_2049_poster.png");
@@ -651,7 +651,7 @@ $("#Avengers3 figcaption").text("Avengers : Infinity War");
 $("#Cloverfield img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/f/f1/Cloverfield_theatrical_poster.jpg/220px-Cloverfield_theatrical_poster.jpg");
 $("#Cloverfield figcaption").text("Cloverfield");
 
-$("#Cloverfield3 img").attr("src","https://occ-0-1001-999.1.nflxso.net/art/0e74d/c7cedf505a9ecaf9868ef564fd5f2bf947e0e74d.jpg");
+$("#Cloverfield3 img").attr("src","https://upload.wikimedia.org/wikipedia/en/e/e5/Cloverfield_paradox_poster.jpg");
 $("#Cloverfield3 figcaption").text("The Cloverfield Paradox");
 
 $("#JohnWick img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/9/98/John_Wick_TeaserPoster.jpg/220px-John_Wick_TeaserPoster.jpg");
@@ -663,7 +663,7 @@ $("#JohnWick2 figcaption").text("John Wick : Chapter 2");
 $("#PacificRim2 img").attr("src","https://upload.wikimedia.org/wikipedia/en/2/2e/Pacificrim2-poster.jpg");
 $("#PacificRim2 figcaption").text("Pacific Rim : Uprising");
 
-$("#StarWars4 img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/Star_Wars_%281997_re-release_poster%29.jpg/170px-Star_Wars_%281997_re-release_poster%29.jpg");
+$("#StarWars4 img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/8/87/StarWarsMoviePoster1977.jpg/220px-StarWarsMoviePoster1977.jpg");
 $("#StarWars4 figcaption").text("Star Wars Episode 4 : A New Hope");
 
 $("#StarWars5 img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/SW_-_Empire_Strikes_Back.jpg/220px-SW_-_Empire_Strikes_Back.jpg");
@@ -709,7 +709,7 @@ $("#LostCityofZ img").attr("src","http://upload.wikimedia.org/wikipedia/en/6/61/
 $("#LostCityofZ figcaption").text("The Lost City of Z");
 
 $("#UsualSuspects img").attr("src","https://resizing.flixster.com/m4FiVr6scKk3L6OoK15PIaVoGZg=/206x305/v1.bTsxMTE4OTY2NTtqOzE3OTA0OzEyMDA7ODAwOzEyMDA");
-$("#UsualSuspects figcaption").text("Usual Suspects");
+$("#UsualSuspects figcaption").text("The Usual Suspects");
 
 $("#Deadpool2 img").attr("src","https://upload.wikimedia.org/wikipedia/en/c/cf/Deadpool_2_poster.jpg");
 $("#Deadpool2 figcaption").text("Deadpool 2");
@@ -733,13 +733,173 @@ $("#Extinction img").attr("src","https://upload.wikimedia.org/wikipedia/en/0/0d/
 $("#Extinction figcaption").text("Extinction");
 
 $("#WolfofWallStreet img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/d/d8/The_Wolf_of_Wall_Street_%282013%29.png/220px-The_Wolf_of_Wall_Street_%282013%29.png");
-$("#WolfofWallStreet figcaption").text("Wolf of Wall Street");
+$("#WolfofWallStreet figcaption").text("The Wolf of Wall Street");
 
 $("#StarTrek2 img").attr("src","https://upload.wikimedia.org/wikipedia/en/5/50/StarTrekIntoDarkness_FinalUSPoster.jpg");
 $("#StarTrek2 figcaption").text("Star Trek : Into Darkness");
 
 $("#StarTrek3 img").attr("src","https://upload.wikimedia.org/wikipedia/en/b/ba/Star_Trek_Beyond_poster.jpg");
 $("#StarTrek3 figcaption").text("Star Trek : Beyond");
+
+$("#JohnnyEnglish3 img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/9/97/JohnnyEnglishStrikesAgain-Poster.jpg/220px-JohnnyEnglishStrikesAgain-Poster.jpg");
+$("#JohnnyEnglish3 figcaption").text("Johnny English Strikes Again");
+
+$("#AmericanSniper img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/1/10/American_Sniper_poster.jpg/220px-American_Sniper_poster.jpg");
+$("#AmericanSniper figcaption").text("American Sniper");
+
+$("#LoneSurvivor img").attr("src","https://upload.wikimedia.org/wikipedia/en/b/bd/Lone_Survivor_poster.jpg");
+$("#LoneSurvivor figcaption").text("Lone Survivor");
+
+$("#DetectivePikachu img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Pok%C3%A9mon_Detective_Pikachu_teaser_poster.jpg/220px-Pok%C3%A9mon_Detective_Pikachu_teaser_poster.jpg");
+$("#DetectivePikachu figcaption").text("Detective Pikachu");
+
+$("#BohemianRhapsody img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/Bohemian_Rhapsody_poster.png/220px-Bohemian_Rhapsody_poster.png");
+$("#BohemianRhapsody figcaption").text("Bohemian Rhapsody");
+
+$("#RimOfTheWorld img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Rim_of_the_World_%282019%29_poster.jpg/220px-Rim_of_the_World_%282019%29_poster.jpg");
+$("#RimOfTheWorld figcaption").text("Rim Of The World");
+
+$("#MortalEngines img").attr("src","https://upload.wikimedia.org/wikipedia/en/c/ce/Mortal_Engines_teaser_poster.jpg");
+$("#MortalEngines figcaption").text("Mortal Engines");
+
+$("#BlackHawkDown img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Black_hawk_down_ver1.jpg/220px-Black_hawk_down_ver1.jpg");
+$("#BlackHawkDown figcaption").text("Black Hawk Down");
+
+$("#TwelveStrong img").attr("src","https://upload.wikimedia.org/wikipedia/en/d/d7/12_Strong_poster.jpg");
+$("#TwelveStrong figcaption").text("12 Strong");
+
+$("#Kong img").attr("src","https://upload.wikimedia.org/wikipedia/en/3/34/Kong_Skull_Island_poster.jpg");
+$("#Kong figcaption").text("Kong : Skull Island");
+
+$("#WarDogs img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/5/52/War_Dogs_2016_poster.jpg/220px-War_Dogs_2016_poster.jpg");
+$("#WarDogs figcaption").text("War Dogs");
+
+$("#Godzilla3 img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Godzilla_%E2%80%93_King_of_the_Monsters_%282019%29_poster.png/220px-Godzilla_%E2%80%93_King_of_the_Monsters_%282019%29_poster.png");
+$("#Godzilla3 figcaption").text("Godzilla : King of The Monsters");
+
+$("#Fury img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Fury_2014_poster.jpg/220px-Fury_2014_poster.jpg");
+$("#Fury figcaption").text("Fury");
+
+$("#ZeroDark30 img").attr("src","https://upload.wikimedia.org/wikipedia/en/7/77/ZeroDarkThirty2012Poster.jpg");
+$("#ZeroDark30 figcaption").text("Zero Dark Thirty");
+
+$("#ThirteenHours img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/13_Hours_poster.png/220px-13_Hours_poster.png");
+$("#ThirteenHours figcaption").text("13 Hours : The Secret Soldiers of Benghazi");
+
+$("#TheDarkestMinds img").attr("src","https://upload.wikimedia.org/wikipedia/en/e/e1/The_Darkest_Minds_poster.png");
+$("#TheDarkestMinds figcaption").text("The Darkest Minds");
+
+$("#LordOfTheRings img").attr("src","https://upload.wikimedia.org/wikipedia/en/9/9d/The_Lord_of_the_Rings_The_Fellowship_of_the_Ring_%282001%29_theatrical_poster.jpg");
+$("#LordOfTheRings figcaption").text("The Lord Of The Rings : The Fellowship of The Ring");
+
+$("#LordOfTheRings2 img").attr("src","https://upload.wikimedia.org/wikipedia/en/a/ad/Lord_of_the_Rings_-_The_Two_Towers.jpg");
+$("#LordOfTheRings2 figcaption").text("The Lord Of The Rings : The Two Towers");
+
+$("#LordOfTheRings3 img").attr("src","https://upload.wikimedia.org/wikipedia/en/9/9d/Lord_of_the_Rings_-_The_Return_of_the_King.jpg");
+$("#LordOfTheRings3 figcaption").text("The Lord Of The Rings : The Return of The King");
+
+$("#TheDeparted img").attr("src","https://upload.wikimedia.org/wikipedia/en/5/50/Departed234.jpg");
+$("#TheDeparted figcaption").text("The Departed");
+
+$("#TheKidWhoWouldBeKing img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/4/4c/The_Kid_Who_Would_be_King.png/220px-The_Kid_Who_Would_be_King.png");
+$("#TheKidWhoWouldBeKing figcaption").text("The Kid Who Would be King");
+
+$("#Bandersnatch img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Black_mirror_bandersnatch_poster.jpg/220px-Black_mirror_bandersnatch_poster.jpg");
+$("#Bandersnatch figcaption").text("Bandersnatch");
+
+$("#Alita img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/e/ee/Alita_Battle_Angel_%282019_poster%29.png/220px-Alita_Battle_Angel_%282019_poster%29.png");
+$("#Alita figcaption").text("Alita : Battle Angel");
+
+$("#FightClub img").attr("src","https://upload.wikimedia.org/wikipedia/en/f/fc/Fight_Club_poster.jpg");
+$("#FightClub figcaption").text("Fight Club");
+
+$("#Bourne img").attr("src","https://upload.wikimedia.org/wikipedia/en/a/ae/BourneIdentityfilm.jpg");
+$("#Bourne figcaption").text("The Bourne Identity");
+
+$("#Bourne2 img").attr("src","https://upload.wikimedia.org/wikipedia/en/3/30/Bourne_supremacy_ver2.jpg");
+$("#Bourne2 figcaption").text("The Bourne Supremacy");
+
+$("#Bourne3 img").attr("src","https://upload.wikimedia.org/wikipedia/en/f/fe/The_Bourne_Ultimatum_%282007_film_poster%29.jpg");
+$("#Bourne3 figcaption").text("The Bourne Ultimatum");
+
+$("#Bourne4 img").attr("src","https://upload.wikimedia.org/wikipedia/en/4/4c/The_Bourne_Legacy_Poster.jpg");
+$("#Bourne4 figcaption").text("The Bourne Legacy");
+
+$("#Bourne5 img").attr("src","https://upload.wikimedia.org/wikipedia/en/b/b2/Jason_Bourne_%28film%29.jpg");
+$("#Bourne5 figcaption").text("Jason Bourne");
+
+$("#CaptainMarvel img").attr("src","https://upload.wikimedia.org/wikipedia/en/8/85/Captain_Marvel_poster.jpg");
+$("#CaptainMarvel figcaption").text("Captain Marvel");
+
+$("#Sicario img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/4/4b/Sicario_poster.jpg/220px-Sicario_poster.jpg");
+$("#Sicario figcaption").text("Sicario");
+
+$("#Sicario2 img").attr("src","https://upload.wikimedia.org/wikipedia/en/e/ed/Sicario_-_Day_of_the_Soldado.png");
+$("#Sicario2 figcaption").text("Sicario : Day of the Soldado");
+
+$("#RaceToTheWitchMountain img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/Race_to_witch_mountain_film.jpg/220px-Race_to_witch_mountain_film.jpg");
+$("#RaceToTheWitchMountain figcaption").text("Race To Witch Mountain");
+
+$("#FBWTFT img").attr("src","https://upload.wikimedia.org/wikipedia/en/5/5e/Fantastic_Beasts_and_Where_to_Find_Them_poster.png");
+$("#FBWTFT figcaption").text("Fantastic Beasts & Where to Find Them");
+
+$("#FBWTFT2 img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/3/3c/Fantastic_Beasts_-_The_Crimes_of_Grindelwald_Poster.png/220px-Fantastic_Beasts_-_The_Crimes_of_Grindelwald_Poster.png");
+$("#FBWTFT2 figcaption").text("Fantastic Beasts & The Crimes of Grindlewald");
+
+$("#JackReacher img").attr("src","https://upload.wikimedia.org/wikipedia/en/d/d1/Jack_Reacher_poster.jpg");
+$("#JackReacher figcaption").text("Jack Reacher");
+
+$("#JackReacher2 img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/0/05/Jack_Reacher_Never_Go_Back_poster.jpg/220px-Jack_Reacher_Never_Go_Back_poster.jpg");
+$("#JackReacher2 figcaption").text("Jack Reacher : Never Go Back");
+
+$("#Anabelle img").attr("src","https://upload.wikimedia.org/wikipedia/en/5/50/AnnabelleComesHomePoster.jpg");
+$("#Anabelle figcaption").text("Anabelle Comes Home");
+
+$("#Seven img").attr("src","https://upload.wikimedia.org/wikipedia/en/6/68/Seven_%28movie%29_poster.jpg");
+$("#Seven figcaption").text("Seven");
+
+$("#SpidermanFar img").attr("src","https://upload.wikimedia.org/wikipedia/en/b/bd/Spider-Man_Far_From_Home_poster.jpg");
+$("#SpidermanFar figcaption").text("Spiderman : Far From Home");
+
+$("#SavingPrivateRyan img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Saving_Private_Ryan_poster.jpg/220px-Saving_Private_Ryan_poster.jpg");
+$("#SavingPrivateRyan figcaption").text("Saving Private Ryan");
+
+$("#Bumblebee img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Bumblebee_%28film%29_poster.png/220px-Bumblebee_%28film%29_poster.png");
+$("#Bumblebee figcaption").text("Bumblebee");
+
+$("#SpiderVerse img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Spider-Man_Into_the_Spider-Verse_%282018_poster%29.png/220px-Spider-Man_Into_the_Spider-Verse_%282018_poster%29.png");
+$("#SpiderVerse figcaption").text("Spider-man : Into The Spider Verse");
+
+$("#Hobbit img").attr("src","https://upload.wikimedia.org/wikipedia/en/b/b3/The_Hobbit-_An_Unexpected_Journey.jpeg");
+$("#Hobbit figcaption").text("The Hobbit : An Unexpected Journey");
+
+$("#Hobbit2 img").attr("src","https://upload.wikimedia.org/wikipedia/en/4/4f/The_Hobbit_-_The_Desolation_of_Smaug_theatrical_poster.jpg");
+$("#Hobbit2 figcaption").text("The Hobbit : The Desolation of Smaug");
+
+$("#Hobbit3 img").attr("src","https://upload.wikimedia.org/wikipedia/en/0/0e/The_Hobbit_-_The_Battle_of_the_Five_Armies.jpg");
+$("#Hobbit3 figcaption").text("The Hobbit : The Battle of the Five Armies");
+
+$("#Avengers4 img").attr("src","https://upload.wikimedia.org/wikipedia/en/0/0d/Avengers_Endgame_poster.jpg");
+$("#Avengers4 figcaption").text("Avengers : End Game");
+
+$("#Aquaman img").attr("src","https://upload.wikimedia.org/wikipedia/en/3/3a/Aquaman_poster.jpg");
+$("#Aquaman figcaption").text("Aquaman");
+
+$("#SchoolOfRock img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/1/11/School_of_Rock_Poster.jpg/220px-School_of_Rock_Poster.jpg");
+$("#SchoolOfRock figcaption").text("School of Rock");
+
+$("#TripleFrontier img").attr("src","https://upload.wikimedia.org/wikipedia/en/8/80/Triple_Frontier.jpg");
+$("#TripleFrontier figcaption").text("Triple Frontier");
+
+$("#EagleEye img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/1/15/Eagle_eye_poster.jpg/220px-Eagle_eye_poster.jpg");
+$("#EagleEye figcaption").text("Eagle Eye");
+
+$("#Shazam img").attr("src","https://upload.wikimedia.org/wikipedia/en/6/60/Shazam%21_theatrical_poster.jpg");
+$("#Shazam figcaption").text("Shazam");
+
+$("#Venom img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Venom_%282018_film_poster%29.png/220px-Venom_%282018_film_poster%29.png");
+$("#Venom figcaption").text("Venom");
+
 
 //-x-x-x--x-x-x-x-x-x-Animated-x-x-x-x-x-x--xx--x-x-x-x-x-x
 $("#DespicableMe img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/d/db/Despicable_Me_Poster.jpg/220px-Despicable_Me_Poster.jpg");
@@ -767,7 +927,7 @@ $("#TheLionKing img").attr("src","https://vignette.wikia.nocookie.net/disney/ima
 $("#TheLionKing figcaption").text("The Lion King");
 
 $("#CloudyWithAChanceOfMeatballs img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/d/d1/Cloudy_with_a_chance_of_meatballs_theataposter.jpg/220px-Cloudy_with_a_chance_of_meatballs_theataposter.jpg");
-$("#CloudyWithAChanceOfMeatballs figcaption").text("Cloudy With A Chance Of Meatballs"); 
+$("#CloudyWithAChanceOfMeatballs figcaption").text("Cloudy With A Chance Of Meatballs");
 
 $("#CloudyWithAChanceOfMeatballs2 img").attr("src","https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Cloudy_with_a_Chance_of_Meatballs_2.jpg/220px-Cloudy_with_a_Chance_of_Meatballs_2.jpg");
 $("#CloudyWithAChanceOfMeatballs2 figcaption").text("Cloudy With A Chance Of Meatballs 2");
@@ -865,7 +1025,7 @@ $("#BigHero6 figcaption").text("Big Hero 6");
 $("#InsideOut img").attr("src","https://upload.wikimedia.org/wikipedia/en/0/0a/Inside_Out_%282015_film%29_poster.jpg");
 $("#InsideOut figcaption").text("Inside Out");
 
-$("#Zootopia img").attr("src","https://upload.wikimedia.org/wikipedia/en/e/ea/Zootopia.jpg");
+$("#Zootopia img").attr("src","https://upload.wikimedia.org/wikipedia/en/9/96/Zootopia_%28movie_poster%29.jpg");
 $("#Zootopia figcaption").text("Zootopia");
 
 $("#TheSecretLifeOfPets img").attr("src","https://upload.wikimedia.org/wikipedia/en/6/64/The_Secret_Life_of_Pets_poster.jpg");
@@ -883,3 +1043,5 @@ $("#TheBossBaby figcaption").text("The Boss Baby");
 $("#DespicableMe3 img").attr("src","https://upload.wikimedia.org/wikipedia/en/9/91/Despicable_Me_3_%282017%29_Teaser_Poster.jpg");
 $("#DespicableMe3 figcaption").text("Despicable Me 3");
 
+$("#HowToTrainYourDragon3 img").attr("src","https://upload.wikimedia.org/wikipedia/en/f/fd/How_to_Train_Your_Dragon_3_poster.png");
+$("#HowToTrainYourDragon3 figcaption").text("How To Train Your Dragon : The Hidden World");
